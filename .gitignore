@@ -1,0 +1,4 @@
+data/Persona_CPV-2024.csv
+data/derived/
+__pycache__/
+*.pyc
